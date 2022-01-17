@@ -1,0 +1,32 @@
+.container{
+    max-width: 1400px;
+}
+.color{
+    color:#0A0826;
+}
+.main-panel{
+    padding: 20px 0;
+}
+/* ------rating icon styling------- */
+.fa-star{
+    font-size: 12px;
+}
+.fa-star.filled{
+    color: #FB8200;
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
+/* ----------footer styling------- */
+footer{
+    
+    color: white;
+    text-align: center;
+    background-color: #0A0826;
+    padding: 40px;
+    margin-top: 60px;
+}
+footer .fab{
+    color:white;
+    margin: 20px 2px;
+}
